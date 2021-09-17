@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+<img src="https://avatars.githubusercontent.com/u/90837024?s=400&u=fc30f0d308d543c1bc5c9c44df28f755ef54a32e&v=4"/>
 
-You can use the [editor on GitHub](https://github.com/armanmozaffari/reume.farsi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ <h1> درباره ی من</h1>
+  <p> من ارمان مظفری ،دانشجوی ڪارشناسی رشته ی مهندسی نرم افزار در دانشگاه پیام نور پرند هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام:ارمان</li>
+  <li>نام خانوادگے: مظفری</li>
+  <li>تاریخ تولد:۱۳۷۵/۸/۶</li>
+  <li>وضعیت تاهل: مجرد</li>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</ul>
 
-### Markdown
+  
+<h1>مهارت ها</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ul>
+    <li>Figma</li>
+    <li>Corel draw</li>
+    <li>ICDL1
 
-```markdown
-Syntax highlighted code block
+</li>
 
-# Header 1
-## Header 2
-### Header 3
+</ul>
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+    <li>انگلیسی</li>
+</ul>
 
-- Bulleted
-- List
+<h1>مدارک</h1>
 
-1. Numbered
-2. List
+<ul>
+    <li>ICDL1</li>
 
-**Bold** and _Italic_ and `Code` text
+</li>
 
-[Link](url) and ![Image](src)
-```
+</ul>
+<br/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h1> سایر حساب های ڪاربری </h1>
+<ul>
+ 
 
-### Jekyll Themes
+ 
+   -Gmail :nstcrck@Gmail.com 
+  
+   - کوئرا: <a href="">My Profile</a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/armanmozaffari/reume.farsi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   - رزومه ی انگلیسی: <a href="https://armanmozaffari.github.io/resume/"> Resume </a>
+</ul>
